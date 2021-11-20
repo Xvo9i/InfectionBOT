@@ -13,7 +13,7 @@ import sys
 import os
 from discord.ext import commands
 
-TOKEN = 'OTExMDAwMjU0MzgyNDg5NjQx.YZbBGg.i31vNlSp1HBE-t48bm0VG4yk9VA'
+TOKEN = 'Токен вашего бота'
 
 bot = commands.Bot(command_prefix='!')  # инициализируем бота с префиксом '!'
 
