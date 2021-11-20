@@ -1,5 +1,6 @@
 # InfectionBOT
 It is an entertaining discord bot that carries a text-based game.
+
 General rules:
 === SPECIAL FORCES ===
 1. Your task is to pump, hire, improve your army, it is common for all special forces.
