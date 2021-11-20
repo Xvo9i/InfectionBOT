@@ -2,6 +2,7 @@
 It is an entertaining discord bot that carries a text-based game.
 
 General rules:
+
 === SPECIAL FORCES ===
 1. Your task is to pump, hire, improve your army, it is common for all special forces.
 2. One improvement is available to you per day, choose wisely and try not to miss, otherwise it will be easier for the murloc to defeat you.
