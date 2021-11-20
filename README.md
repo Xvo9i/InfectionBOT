@@ -1,9 +1,11 @@
 # InfectionBOT
 It is an entertaining discord bot that carries a text-based game.
 
+The main idea of the project is to create a discord bot that plays a text game with server participants. The main bot code is in secret, the rest of the files are needed to upload the bot discord to free hosting, this is necessary for the bot to work continuously
+
 General rules:
 
-=== SPECIAL FORCES ===
+  === SPECIAL FORCES ===
 1. Your task is to pump, hire, improve your army, it is common for all special forces.
 2. One improvement is available to you per day, choose wisely and try not to miss, otherwise it will be easier for the murloc to defeat you.
 3. You need to select a weapon in the arsenal and when attacking a murloc, also send a message with a machine gun and an emoticon (╾━╤ デ ╦︻)
