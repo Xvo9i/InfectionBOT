@@ -1,4 +1,6 @@
 # InfectionBOT
+The game contains an entertaining character
+
 It is an entertaining discord bot that carries a text-based game.
 
 The main idea of the project is to create a discord bot that plays a text game with server participants. The main bot code is in secret, the rest of the files are needed to upload the bot discord to free hosting, this is necessary for the bot to work continuously
